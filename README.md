@@ -33,8 +33,8 @@ A  GUI tool for managing and generating GitHub contribution patterns. This tool 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/github-contribution-generator.git
-cd github-contribution-generator
+git clone [https://github.com/HersheyxBar/Green_Squares.git]
+cd Green_Squares
 ```
 
 2. Install required dependencies:
@@ -46,7 +46,7 @@ pip install tkcalendar
 
 1. Launch the application:
 ```bash
-python commitgui.py
+python3 commitgui.sh
 ```
 
 2. Enter your GitHub credentials:
